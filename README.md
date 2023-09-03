@@ -10,3 +10,12 @@ Being a techie, you have observed this problem and thought of making the process
 4.	To create a GUI structure where you can fill the details needed to store in the server.
 5.	At the end of the data retrieved from server, show Total spent, person A spent, Person B spent, who pays to whom and how has to be paid by them at any given time.
 6.	View the Add new Item Form separately with the react router dom.
+
+![image](https://github.com/SnehYogKulkarni/SnehalKulkarni_ReactJS_Lab/assets/115880442/5176b6b5-804d-4d76-bdf9-aa1b48814a15)
+
+
+![image](https://github.com/SnehYogKulkarni/SnehalKulkarni_ReactJS_Lab/assets/115880442/e1e16b7c-e491-4d83-b643-d24eb4070930)
+
+
+![image](https://github.com/SnehYogKulkarni/SnehalKulkarni_ReactJS_Lab/assets/115880442/dc14e4b1-630f-410e-95c6-b26fa502e88f)
+
